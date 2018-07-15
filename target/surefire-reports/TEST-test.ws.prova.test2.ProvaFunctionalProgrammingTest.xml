@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="23" failures="0" name="test.ws.prova.test2.ProvaFunctionalProgrammingTest" time="11.418" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="9.0.4+11"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-9-oracle/lib"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/home/jf/dev/github/prova"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="9.0.4+11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="basedir" value="/home/jf/dev/github/prova"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="53.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="4.15.0-24-generic"/>
+    <property name="user.home" value="/home/jf"/>
+    <property name="user.timezone" value="Europe/Berlin"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="9"/>
+    <property name="user.name" value="jf"/>
+    <property name="java.class.path" value="/tmp/surefirebooter9578821261380352945.jar"/>
+    <property name="java.vm.specification.version" value="9"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="/tmp/surefirebooter9578821261380352945.jar /tmp/surefire14673840485440128040tmp /tmp/surefire7468474917388640217tmp"/>
+    <property name="java.home" value="/usr/lib/jvm/java-9-oracle"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="9.0.4"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="localRepository" value="/home/jf/.m2/repository"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.desktop" value="gnome"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="basic" time="0.465"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="func_reactive_unfoldr_iteration_perf" time="0.995"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="func_reactive_unfoldr_iteration_perf_large" time="3.273"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="func_reactive_followed_by" time="2.034"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="func_reactive_unfoldr_iteration" time="1.042"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="func_tenpin" time="1.041"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="func_reactive_unfoldr_mult" time="1.031"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="func_reactive_unfoldr" time="1.025"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="func_unfoldr" time="0.028"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="func_unfoldr_with_take" time="0.02"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="func_max" time="0.024"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="func_run_length_encoding" time="0.021"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="func_breadth_first" time="0.026"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="func_stream_fusion_2" time="0.017"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="func_stream_fusion" time="0.022"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="func_stream_fusion_fun" time="0.025"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="func_fact_monad" time="0.026"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="test_clone" time="0.004"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="list_and_state_reimplemented" time="0.039"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="tree_monad" time="0.029"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="mappings_not_functions" time="0.091"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="concrete_monadic_list" time="0.036"/>
+  <testcase classname="test.ws.prova.test2.ProvaFunctionalProgrammingTest" name="maybe_monad" time="0.016"/>
+</testsuite>

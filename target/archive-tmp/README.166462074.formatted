@@ -1,0 +1,23 @@
+Thanks for downloading and welcome to the Prova Rule Language version 3.2.1.
+
+It is a complete rewrite of the Prova rule-based scripting and agent language
+currently distributed under GNU Lesser General Public License version 2.1: http://opensource.org/licenses/lgpl-2.1.php.
+
+The User's Guide manual is included in the docs directory and also available at
+http://www.prova.ws/etc/Prova_3.0_Users_Guide.pdf.
+
+A comprehensive and up-to-date Prova WIKI is available at http://www.prova.ws/confluence and the issue tracker system is
+at http://www.prova.ws/jira.
+
+To run a Prova 3.0 rulebase as a script file, change to the bin directory, and run
+	prova3[.bat] <rulebase file>
+
+The directory 'rules' contains a large selection of examples for you to try. For example,
+	prova3[.bat] ../rules/test001_args.prova anticoagulant
+
+You can also run the examples from within the rules directory. Change directory to rules and run: 
+	prova3[.bat] ex001.prova
+
+The command-line arguments are passed to the script as $0 through $N (see the script in rules/test001_args.prova). 
+
+Alex Kozlenkov and Adrian Paschke
