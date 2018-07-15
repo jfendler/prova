@@ -1,0 +1,11 @@
+.classpath
+.settings/
+.settings/*
+*.class
+target/*
+target
+lib
+lib/*
+.classpath
+.settings/org.eclipse.jdt.core.prefs
+target/ws.prova.compact-3.2.1.jar
